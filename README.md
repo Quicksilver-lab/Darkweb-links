@@ -3,7 +3,7 @@ This repository contains a comprehensive list of .onion links to various resourc
 
 <div alligne"center">
    
-![Tor Links](https://miro.medium.com/v2/resize:fit:720/format:webp/0*3zbw203RmZg-Ut9S.png)
+   ![Repository Logo](https://miro.medium.com/v2/resize:fit:720/format:webp/0*3zbw203RmZg-Ut9S.png)
 
 </div>
 
