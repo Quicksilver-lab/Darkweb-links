@@ -378,7 +378,7 @@ This repository contains a comprehensive list of .onion links to various resourc
 120. **Hidden Wiki (New)** - New version of the Hidden Wiki.
     - [http://hiddenwiki5p7.onion](http://hiddenwiki5p7.onion)
 
-     **DarkNet Links (New)** - Best Site to find latest and Working Onion links.
+121. **DarkNet Links (New)** - Best Site to find latest and Working Onion links.
     - [http://dwltorbltw3tdjskxn23j2mwz2f4q25j4ninl5bdvttiy4xb6cqzikid.onion/](http://dwltorbltw3tdjskxn23j2mwz2f4q25j4ninl5bdvttiy4xb6cqzikid.onion/)
 
 ## Warning
