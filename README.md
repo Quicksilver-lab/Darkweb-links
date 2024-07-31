@@ -15,8 +15,8 @@ This repository contains a comprehensive list of .onion links to various resourc
    - [http://wikitjerrta4qgz4.onion](http://wikitjerrta4qgz4.onion)
    - [http://thehiddenwiki.org](http://thehiddenwiki.org)
 
-2. **Deep Web Links** - Directory of deep web links.
-   - [http://deepweblinks.onion](http://deepweblinks.onion)
+2. **DARK Web Link** - Directory of dark web link.
+   - [https://darkweblink.com](https://darkweblink.com)
 
 3. **Dark Web News** - Latest news and updates from the dark web.
    - [http://darkwebnews.onion](http://darkwebnews.onion)
