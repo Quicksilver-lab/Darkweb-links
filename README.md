@@ -34,7 +34,7 @@ This repository contains a comprehensive list of .onion links to various resourc
    - [http://zerobins.onion](http://zerobins.onion)
 
 8. **The Onion Hub** - Directory of .onion sites.
-   - [http://theonionhub.onion](http://theonionhub.onion)
+   - [https://onionhub.com/](https://onionhub.com/)
 
 9. **Crypto Market** - Marketplace for cryptocurrencies.
    - [http://cryptomarket.onion](http://cryptomarket.onion)
