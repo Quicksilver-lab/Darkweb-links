@@ -5,7 +5,7 @@
 <a href="https://github.com/Quicksilver-lab/Darkweb-links/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Quicksilver-lab/Darkweb-links?color=blue&style=flat-square"></a>
 <a href="https://github.com/Quicksilver-lab/Darkweb-links/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Quicksilver-lab/Darkweb-links?color=red&style=flat-square"></a>
 <a href="https://github.com/Quicksilver-lab/Darkweb-links/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Quicksilver-lab/Darkweb-links?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/Quicksilver-lab/Darkweb-links"><img title="QuickSilver" src="https://img.shields.io/badge/Author QuickSilver?v=103"></a>
+<a href="https://github.com/Quicksilver-lab/Darkweb-links"><img title="QuickSilver" src="https://img.shields.io/badge/Author-QuickSilver?v=103"></a>
 <a href="https://github.com/Quicksilver-lab/Darkweb-links/"><img title="Size" src="https://img.shields.io/github/repo-size/Quicksilver-lab/Darkweb-links?style=flat-square&color=green"></a>
 <a href="https://github.com/Quicksilver-lab"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Quicksilver-lab/Darkweb-links&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
 <a href="https://github.com/Quicksilver-lab/Darkweb-links/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
