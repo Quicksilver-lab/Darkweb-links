@@ -1,15 +1,47 @@
 # 🚇 Dark Web Live Links Archive
 
+<div alligne"center">
+   
+   ![Repository Logo](https://miro.medium.com/v2/resize:fit:720/format:webp/0*3zbw203RmZg-Ut9S.png)
+
+</div>
+
 <p align="center">
-<a href="https://github.com/Quicksilver-lab/followers"><img title="Followers" src="https://img.shields.io/github/followers/Quicksilver-lab?color=red&style=flat-square"></a>
-<a href="https://github.com/Quicksilver-lab/Darkweb-links/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Quicksilver-lab/Darkweb-links?color=blue&style=flat-square"></a>
-<a href="https://github.com/Quicksilver-lab/Darkweb-links/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Quicksilver-lab/Darkweb-links?color=red&style=flat-square"></a>
-<a href="https://github.com/Quicksilver-lab/Darkweb-links/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Quicksilver-lab/Darkweb-links?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/Quicksilver-lab/Darkweb-links"><img title="QuickSilver" src="https://img.shields.io/badge/Author-QuickSilver?v=103"></a>
-<a href="https://github.com/Quicksilver-lab/Darkweb-links/"><img title="Size" src="https://img.shields.io/github/repo-size/Quicksilver-lab/Darkweb-links?style=flat-square&color=green"></a>
-<a href="https://github.com/Quicksilver-lab"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Quicksilver-lab/Darkweb-links&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/Quicksilver-lab/Darkweb-links/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+  <!-- GitHub Followers -->
+  <a href="https://github.com/Quicksilver-lab/followers">
+    <img title="Followers" src="https://img.shields.io/github/followers/Quicksilver-lab?color=red&style=flat-square">
+  </a>
+  
+  <!-- Stars -->
+  <a href="https://github.com/Quicksilver-lab/Darkweb-links/stargazers">
+    <img title="Stars" src="https://img.shields.io/github/stars/Quicksilver-lab/Darkweb-links?color=blue&style=flat-square">
+  </a>
+
+  <!-- Forks -->
+  <a href="https://github.com/Quicksilver-lab/Darkweb-links/network/members">
+    <img title="Forks" src="https://img.shields.io/github/forks/Quicksilver-lab/Darkweb-links?color=yellow&style=flat-square">
+  </a>
+
+  <!-- Issues -->
+  <a href="https://github.com/Quicksilver-lab/Darkweb-links/issues">
+    <img title="Issues" src="https://img.shields.io/github/issues/Quicksilver-lab/Darkweb-links?color=orange&style=flat-square">
+  </a>
+
+  <!-- Repo Size -->
+  <img title="Repo Size" src="https://img.shields.io/github/repo-size/Quicksilver-lab/Darkweb-links?style=flat-square">
+
+  <!-- Last Commit -->
+  <img title="Last Commit" src="https://img.shields.io/github/last-commit/Quicksilver-lab/Darkweb-links?color=success&style=flat-square">
+
+  <!-- Is Maintained -->
+  <img title="Maintained" src="https://img.shields.io/badge/Maintained%3F-Yes-success?style=flat-square">
+
+  <!-- Custom: Verified Links -->
+  <img title="Verified Links" src="https://img.shields.io/badge/Verified_Links-100%25-green?style=flat-square">
 </p>
+
+
+
 
 A meticulously curated and verified collection of **active dark web (.onion) links**. Every link has been personally tested and confirmed live at the time of inclusion. This repository is aimed at researchers, cybersecurity professionals, and enthusiasts who seek direct access to hidden services on the dark web.
 
@@ -26,15 +58,11 @@ If you find any expired or non-working link, **please submit an issue** — it w
 
 > ⚠️ **Disclaimer:** This repository is for **educational and research purposes** only. Accessing certain content on the dark web may be illegal in your jurisdiction. Always use proper anonymity tools (e.g., [Tor Browser](https://www.torproject.org/)) and practice safe browsing. The author is not responsible for how this information is used.
 
-<div alligne"center">
-   
-   ![Repository Logo](https://miro.medium.com/v2/resize:fit:720/format:webp/0*3zbw203RmZg-Ut9S.png)
 
-</div>
 
-## .onion Links
+# .onion Links
 
-### General Resources
+## General Resources
 
 1. **The Hidden Wiki** - A comprehensive directory of .onion sites.
    - [http://6nhmgdpnyoljh5uzr5kwlatx2u3diou4ldeommfxjz3wkhalzgjqxzqd.onion/](http://6nhmgdpnyoljh5uzr5kwlatx2u3diou4ldeommfxjz3wkhalzgjqxzqd.onion/)
